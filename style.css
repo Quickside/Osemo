@@ -1,0 +1,14 @@
+img {
+    height: 500px;
+    width: 500px;
+}
+h1 {
+    color: blue;
+    font-family: "Comic Sans", "Courier New", monospace;
+}
+h2 {
+    color: red;
+}
+body {
+    background: aquamarine;
+}
